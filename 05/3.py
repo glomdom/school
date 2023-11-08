@@ -1,5 +1,5 @@
 """
-3rd problem from 05_stack_deque
+3rd problem from 05_stack_deque.
 """
 
 from collections import deque
